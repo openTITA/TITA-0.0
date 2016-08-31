@@ -8,6 +8,8 @@ initial version of TITA designed in imperial units
 
 .skp - sketchup working design file (original file used to test configurations, tweak design and parts) (imperial)
 
+.xlsx - spreadsheet purchase list for table (used for prototypes)
+
 Published under Creative Commons 
 License: Creative Commons - Attribution-ShareAlike International
 For full terms: https://creativecommons.org/licenses/by-sa/4.0/
